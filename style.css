@@ -29,9 +29,9 @@ body {
     background-image: url("https://ben.com.vn/tin-tuc/wp-content/uploads/2020/09/hinh-nen-powerpoint-mau-trang-3.jpg");
 	--color-text: #d05400;
     --color-bg: #0c0c0c;
-    --color-link: #6b5537;
+    --color-link: #376b42;
 	--color-link-hover: #fff;
-	--color-content-title-sub: #6b5537;
+	--color-content-title-sub: #d1dd23;
     color: var(--color-text);
     background-color: var(--color-bg);
     --cursor-stroke: #6b5537;
